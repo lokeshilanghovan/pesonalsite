@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  padding-top: 50px;
+}
+p{
+  font-family: 'Satisfy', cursive;
+}
+div {
+
+  background-color: #8bcdcd;
+
+}
+
+.bottomcloud{
+  position: absolute;
+top: 180px;
+  left: 200px;
+}
+
+.topcloud{
+  position: absolute;
+top:60px;
+  right: 200px;
+}
+
+.me{
+  height: 150px;
+  width: 150px;
+padding-top: 50px;
+}
+
+.photography{
+  height : 100px;
+  width: 100px;
+}
+
+.stock{
+  height: 100px;
+  width: 100px;
+}
+
+.stock-row{
+  font-family: 'Satisfy', cursive
+}
+h2{
+  font-family: 'Poiret One', cursive;
+}
+
+h3{
+  font-family: 'Josefin Slab', serif;
+}
+
+.heading{
+  height: 100px;
+  width: 100px;
+  margin: auto;
+  padding-bottom: 20px;
+
+}
